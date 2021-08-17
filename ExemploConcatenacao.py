@@ -1,4 +1,4 @@
-nome = input("Digite o seu nome: ")
+nomeincompleto = input("Digite o seu nome: ")
 sobrenome = input("Digite o seu sobrenome: ")
-nomecompleto= nome + " " + sobrenome
+nomecompleto= nomeincompleto + " " + sobrenome
 print("O nome digitado foi: {}".format(nomecompleto))
